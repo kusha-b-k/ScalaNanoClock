@@ -9,7 +9,7 @@ please change the font type that are installed on your computer system
 
 ##screenshot
 
-https://github.com/kusha-b-k/ScalaNanoClock/blob/master/kushabknano.gif
+![alt tag](https://github.com/kusha-b-k/ScalaNanoClock/blob/master/kushabknano.gif)
 
 
 ##License
