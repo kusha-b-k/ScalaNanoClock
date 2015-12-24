@@ -3,7 +3,7 @@ nano clock designed using scala code
 
 
 ##Use
-please change the font type that are installed on your computer system
+Please change the font type in the code, according to the font type that are installed on your computer system
 
 
 
