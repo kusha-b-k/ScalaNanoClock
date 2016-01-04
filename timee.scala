@@ -28,7 +28,7 @@ class UI extends MainFrame {
   private val clock = new Label(lastTime)
   {
     foreground = Color.BLACK
-
+    //Chang the font type here
     font = new Font("Federal Escort Outline", Font.BOLD, 60)
   }
 
